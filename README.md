@@ -23,23 +23,8 @@ I love building scalable systems and contributing to open source projects. Backe
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
----
  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
----
-
  
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square" alt="Profile Views" />
-</div>
-
----
 
 ⭐️ **From [Babulal Choudhary](https://github.com/babulalchoudhary2050)**
