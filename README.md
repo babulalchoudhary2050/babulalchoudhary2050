@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Babulal Choudhary  
-**`babulalchoudhary2050@gmail.com`**  
+## 🌐 Connect with Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:babulalchoudhary2050@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 
@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 I'm a passionate developer with strong expertise in backend systems, API integrations, real-time apps, and AI-assisted tools.  
-I love building scalable systems and contributing to open source projects.
+I love building scalable systems and contributing to open source projects. Backend Developer - PHP , Laravel , Codeigniter & React Explorer 
 
 ---
 
@@ -38,14 +38,7 @@ I love building scalable systems and contributing to open source projects.
 
 ---
 
-## 🌐 Connect with Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-babulalchoudhary2050%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:babulalchoudhary2050@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-
----
+ 
 
 ## 📈 Activity Graph
 
